@@ -32,7 +32,10 @@ else:
 '''
 #4)Create a variable called weight. Make an if statement that checks the unit of the weight. If the weight is in kilograms, convert it to pounds 
 '''
+weight = 123
 
+if(weight = )
 '''
 #5)Now modify the previous program to also convert from pounds to kilograms
 '''
+    
